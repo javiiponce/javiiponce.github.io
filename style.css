@@ -1,0 +1,77 @@
+#foto{
+    position: relative;
+    text-align: center;
+    z-index:2;
+}
+#elcomandante{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+#cuerpesito{
+    background-image: url(bernabeu.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#bio{
+    font-size: 20px;
+    position: absolute;
+    z-index:1;
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    top: 125px; 
+    left: 250px;
+}
+#traye{
+    font-size: 20px;
+    position: absolute;
+    z-index:1;
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    top: 125px; 
+    right: 200px;
+}
+#trofeos{
+    font-size: 20px;
+    position: absolute;
+    z-index:1;
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    top: 300px; 
+    left: 250px;
+}
+#golazos{
+    font-size: 20px;
+    position: absolute;
+    z-index:1;
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    top:300px;
+    right:250px 
+}
+#bio a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+#golazos a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+#traye a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+#trofeos a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    
+}
